@@ -6,4 +6,4 @@ All files required for replicating OpenLeg will be provided along with an assemb
 
 Please reach out if you are interested in building the leg or contributing to the project.
 
-Thanks to my Senior Design partners Kanyon Edvall and Ahsan Qureshi for helping realize the project in the tight schedule of just one semester.
+Thanks to my Senior Design partners Kanyon Edvall and Ahsan Qureshi for helping realize the project in the tight schedule of just one semester. Watch our Senior Design Demo Video Here: https://www.youtube.com/watch?v=aXOSeKpADnk 
