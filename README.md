@@ -12,7 +12,7 @@ Thanks to my Senior Design partners Kanyon Edvall and Ahsan Qureshi for helping 
   <img src="Visuals/Full_Project_Render.JPG">
 </p>
 
-![](Visuals/Full_Project_Render.JPG)
-
-![](Visuals/Leg_Jumping_Slow_Motion.gif)
+<p align="center">
+  <img src="Visuals/Leg_Jumping_Slow_Motion.gif">
+</p>
 
