@@ -8,6 +8,10 @@ Please reach out if you are interested in building the leg or contributing to th
 
 Thanks to my Senior Design partners Kanyon Edvall and Ahsan Qureshi for helping realize the project in the tight schedule of just one semester. Watch our Senior Design demo video here: https://www.youtube.com/watch?v=aXOSeKpADnk 
 
+<p align="center">
+  <img src="Visuals/Full_Project_Render.JPG">
+</p>
+
 ![](Visuals/Full_Project_Render.JPG)
 
 ![](Visuals/Leg_Jumping_Slow_Motion.gif)
