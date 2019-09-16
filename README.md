@@ -13,6 +13,6 @@ Thanks to my Senior Design partners Kanyon Edvall and Ahsan Qureshi for helping 
 </p>
 
 <p align="center">
-  <img src="Visuals/Leg_Jumping_Slow_Motion.gif">
+  <img width="200" height="355" src="Visuals/Leg_Jumping_Slow_Motion.gif">
 </p>
 
