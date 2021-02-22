@@ -25,7 +25,7 @@ OpenLeg has also been featured on the following sites:
 
 I've had to put OpenLeg on pause for quite some time now for both personal and work reasons but I wanted to post an update to assure everyone following the project that the development is still very much ongoing and there's a lot of exciting improvements to look forward to with OpenLeg V2 and the OpenLeg Quadruped.
 
-OpenLeg V2 is no longer just a standalone 2 DOF leg, it's a full 3 DOF leg speificaly optimized for use in the OpenLeg Quadruped. 
+OpenLeg V2 is no longer just a standalone 2 DOF leg, it's a full 3 DOF leg optimized for use in the OpenLeg Quadruped. 
 
 OpenLeg V2 is based on a modular actuator with a 50Kv motor, planetary gearbox, and FOC controller all built into one unit. This actuator is used for both of the hip joints, while the knee uses a belt transmission for keeping a nice form factor. The belt transmission has however been updated to have far lower friction that the 90 degree twist design in OpenLeg V1.
 
