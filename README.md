@@ -12,6 +12,8 @@ Please keep in mind- OpenLeg isn't a finished product, it's still very much unde
 
 You can find the OpenLeg V1 Senior Design demo video here: https://www.youtube.com/watch?v=aXOSeKpADnk
 
+Access the Full SolidWorks souce files for OpenLeg V1 in Hardware > OpenLeg_Assembly_Pack_and_Go.zip
+
 OpenLeg has also been featured on the following sites: 
 <a href="https://hackaday.com/2019/09/21/openleg-the-open-source-robot-leg/" target="_blank">Hackaday</a> &nbsp;&bull;&nbsp;
 <a href="https://www.hackster.io/news/you-can-design-your-own-sophisticated-walking-robot-thanks-to-this-student-project-7c02dde19ade" target="_blank">Hackster</a>&nbsp;&bull;&nbsp;
@@ -20,10 +22,10 @@ OpenLeg has also been featured on the following sites:
 
 
 <p align="center">
-  <img src="Visuals/ReadMe_Graphics/OpenLeg_V2_Title.png">
+  <img src="Visuals/ReadMe_Graphics/OpenLeg_V2_Title-2.png">
 </p>
 
-I've had to put OpenLeg on pause for quite some time now for both personal and work reasons but I wanted to post an update to assure everyone following the project that the development is still very much ongoing and there's a lot of exciting improvements to look forward to with OpenLeg V2 and the OpenLeg Quadruped.
+You can find the OpenLeg V2 Actuator source files in Hardware > OpenLeg_V2_Actuator_Pack_and_Go.zip > Actuator_V1.SLDASM
 
 OpenLeg V2 is no longer just a standalone 2 DOF leg, it's a full 3 DOF leg optimized for use in the OpenLeg Quadruped. 
 
